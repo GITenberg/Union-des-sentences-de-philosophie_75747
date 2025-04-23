@@ -1,0 +1,34 @@
+_repo: Union-des-sentences-de-philosophie_75747
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2025-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75747'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k15189022
+pgterms:marc905: 20201204232248anonymous
+pgterms:marc906: '1583'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bimprimerie de Leon Cavellat, $c1583.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Union des sentences de philosophie
+url: http://www.gutenberg.org/ebooks/75747
